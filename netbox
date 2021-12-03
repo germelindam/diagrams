@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T20:04:47.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.9.1" etag="k3VHYAXy77fxAekqbcfS" type="github"><diagram id="V_zCqSpcem4OT34WJpON">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-03T20:46:12.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="CvB2S6NmbcA2ZaQ40uF3" version="15.9.1" type="github">
+  <diagram id="V_zCqSpcem4OT34WJpON" name="Page-1">
+    <mxGraphModel dx="2062" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="390" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OpIpcTi7NdBUDxUeGf6R-26" target="OpIpcTi7NdBUDxUeGf6R-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-0.9049999999997453" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-81.81" y="185" width="161.81" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;fillColor=none;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="210" width="78.19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" edge="1" parent="1" target="OpIpcTi7NdBUDxUeGf6R-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="455" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#97D077;fillColor=none;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="315.53" y="400" width="56.95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#97D077;fillColor=none;image=https://netdevops.space/images/sections/skills/netbox.png;" vertex="1" parent="1">
+          <mxGeometry x="675" y="165" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-17" value="&lt;font color=&quot;#000000&quot; style=&quot;font-weight: normal ; font-size: 14px&quot;&gt;/netbox-add-device&lt;br&gt;/netbox-ansible-template&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="-50.900000000000006" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-24" value="&lt;font color=&quot;#000000&quot; style=&quot;font-weight: normal ; font-size: 14px&quot;&gt;- add/update device&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OpIpcTi7NdBUDxUeGf6R-27" value="&lt;font color=&quot;#000000&quot; style=&quot;font-weight: normal ; font-size: 14px&quot;&gt;- add/update device&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="294" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
